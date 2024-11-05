@@ -1,0 +1,250 @@
+{
+  "heading": "Commas with Compound and Complex Sentences",
+  "topics": [
+    {
+      "heading": "Commas with Compound and Complex Sentences",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Select the sentence with the correct comma usage according to the rule of compound sentence:",
+          "options": [
+            "He studied for the test, but he still felt unprepared.",
+            "She made breakfast and cleaned the kitchen.",
+            "We can take a bus or walk to the store.",
+            "He worked late, yet missed the meeting."
+          ],
+          "answer": 0,
+          "explanation": "Option a) uses a comma correctly before 'but' to separate two independent clauses. The other options either do not require a comma or are incorrect."
+        },
+        {
+          "questionNo": 2,
+          "question": "Select the sentence with the correct comma usage according to the rule of compound sentence:",
+          "options": [
+            "She wanted to watch a movie, and eat some popcorn.",
+            "He loves to play soccer, so he practices every day.",
+            "The car broke down but we managed to arrive on time.",
+            "I read the book and then returned it to the library."
+          ],
+          "answer": 1,
+          "explanation": "Option b) uses a comma correctly before 'so' to separate two independent clauses. Other options either do not require a comma or are incorrect."
+        },
+        {
+          "questionNo": 3,
+          "question": "Select the sentence with the correct comma usage according to the rule of compound sentence:",
+          "options": [
+            "He finished his homework early, and he went out to play.",
+            "She likes to read novels, but prefers nonfiction.",
+            "They watched the movie and then discussed it afterward.",
+            "I will call you, or send a message."
+          ],
+          "answer": 0,
+          "explanation": "Option a) is correct because the comma before 'and' separates two independent clauses. Other options either do not require a comma or are incorrect."
+        },
+        {
+          "questionNo": 4,
+          "question": "Rewrite the following simple sentence as a compound sentence: 'The scientist conducted the experiment.'",
+          "options": [
+            "The scientist conducted the experiment, and the results were surprising.",
+            "Because the scientist conducted the experiment, the findings were conclusive.",
+            "After the scientist conducted the experiment, he recorded the data.",
+            "The scientist conducted the experiment while the students observed."
+          ],
+          "answer": 0,
+          "explanation": "Option a) forms a compound sentence by joining two independent clauses with 'and.' The other options form complex sentences."
+        },
+        {
+          "questionNo": 5,
+          "question": "Rewrite the following simple sentence as a compound sentence: 'The runner crossed the finish line.'",
+          "options": [
+            "The runner crossed the finish line, and the crowd cheered.",
+            "Because the runner crossed the finish line, he was exhausted.",
+            "Although the runner crossed the finish line, he did not win.",
+            "After the runner crossed the finish line, he took a deep breath."
+          ],
+          "answer": 0,
+          "explanation": "Option a) creates a compound sentence by connecting two independent clauses with 'and.' Other options are complex sentences."
+        },
+        {
+          "questionNo": 6,
+          "question": "Rewrite the following simple sentence as a compound sentence:<br> 'The teacher explained the lesson.'",
+          "options": [
+            "The teacher explained the lesson, and the students asked questions.",
+            "Because the teacher explained the lesson, the students understood.",
+            "After the teacher explained the lesson, the students took notes.",
+            "The teacher explained the lesson while the students listened."
+          ],
+          "answer": 0,
+          "explanation": "Option a) forms a compound sentence by joining two independent clauses with 'and.' Option b) is a complex sentence with a dependent clause starting with 'Because.' Option c) uses the dependent clause 'After the teacher explained the lesson,' making it a complex sentence. Option d) introduces a dependent clause with 'while,' resulting in a complex sentence."
+        },
+        {
+          "questionNo": 7,
+          "question": "Identify the type of sentence:<br> 'He studied hard for the exam, but he was still nervous.'",
+          "options": [
+            "Simple",
+            "Compound",
+            "Complex",
+            "Complex-compound"
+          ],
+          "answer": 1,
+          "explanation": "Option b) is correct because the sentence consists of two independent clauses ('He studied hard for the exam' and 'he was still nervous') joined by the coordinating conjunction 'but.' Option a) is incorrect because a simple sentence does not contain multiple independent clauses. Option c) is incorrect because a complex sentence would have at least one dependent clause. Option d) is incorrect because a complex-compound sentence would include at least two independent clauses and a dependent clause, which is not the case here."
+        },
+        {
+          "questionNo": 8,
+          "question": "Identify the type of sentence:<br> 'They will finish the project tomorrow if they get the materials on time.'",
+          "options": [
+            "Simple",
+            "Compound",
+            "Complex",
+            "Complex-compound"
+          ],
+          "answer": 2,
+          "explanation": "Option c) is correct because the sentence has one dependent clause ('if they get the materials on time') and one independent clause ('They will finish the project tomorrow'). Option a) is incorrect because a simple sentence lacks dependent clauses. Option b) is incorrect because a compound sentence consists of two independent clauses. Option d) is incorrect because there is only one independent clause in the sentence, not multiple."
+        },
+        {
+          "questionNo": 9,
+          "question": "Identify the type of sentence:<br> 'Although he was tired, he stayed up late to finish his work.'",
+          "options": [
+            "Simple",
+            "Compound",
+            "Complex",
+            "Complex-compound"
+          ],
+          "answer": 2,
+          "explanation": "Option c) is correct because the sentence contains a dependent clause ('Although he was tired') and an independent clause ('he stayed up late to finish his work'), making it a complex sentence. Option a) is incorrect because a simple sentence does not include dependent clauses. Option b) is incorrect because a compound sentence requires two independent clauses joined by a coordinating conjunction. Option d) is incorrect because the sentence does not have multiple independent clauses and a dependent clause."
+        },
+        {
+          "questionNo": 10,
+          "question": "Identify the type of sentence:<br> 'The teacher explained the lesson, but the students still seemed confused.'",
+          "options": [
+            "Simple",
+            "Compound",
+            "Complex",
+            "Complex-compound"
+          ],
+          "answer": 1,
+          "explanation": "Option b) is correct because the sentence contains two independent clauses ('The teacher explained the lesson' and 'the students still seemed confused') joined by the coordinating conjunction 'but.' Option a) is incorrect because a simple sentence has only one independent clause. Option c) is incorrect because a complex sentence requires a dependent clause, which this sentence does not have. Option d) is incorrect because there are no dependent clauses in this sentence, which is a requirement for a complex-compound sentence."
+        },
+        {
+          "questionNo": 11,
+          "question": "Identify the type of sentence:<br> 'Unless it rains, we will go for a hike.'",
+          "options": [
+            "Simple",
+            "Compound",
+            "Complex",
+            "Complex-compound"
+          ],
+          "answer": 2,
+          "explanation": "Option c) is correct because the sentence contains one dependent clause ('Unless it rains') and one independent clause ('we will go for a hike'), making it a complex sentence. Option a) is incorrect because a simple sentence does not have any dependent clauses. Option b) is incorrect because a compound sentence consists of two independent clauses. Option d) is incorrect because a complex-compound sentence would require multiple independent clauses and at least one dependent clause, which is not the case here."
+        },
+        {
+          "questionNo": 12,
+          "question": "Identify the type of sentence:<br> 'He played the guitar and sang beautifully.'",
+          "options": [
+            "Simple",
+            "Compound",
+            "Complex",
+            "Complex-compound"
+          ],
+          "answer": 0,
+          "explanation": "Option a) is correct because the sentence has only one independent clause with a compound predicate ('played the guitar and sang beautifully'), making it a simple sentence. Option b) is incorrect because a compound sentence would require two independent clauses connected by a coordinating conjunction. Option c) is incorrect because a complex sentence would need a dependent clause, which is not present here. Option d) is incorrect because a complex-compound sentence involves multiple independent clauses and at least one dependent clause, neither of which are present in this sentence."
+        },
+        {
+          "questionNo": 13,
+          "question": "Identify the type of sentence:<br> 'She finished her assignment after she had dinner, and then she went to bed.'",
+          "options": [
+            "Simple",
+            "Compound",
+            "Complex",
+            "Complex-compound"
+          ],
+          "answer": 3,
+          "explanation": "Option d) is correct because the sentence includes two independent clauses ('She finished her assignment' and 'then she went to bed') joined by 'and,' as well as one dependent clause ('after she had dinner'), making it a complex-compound sentence. Option a) is incorrect because a simple sentence does not contain more than one independent clause or any dependent clauses. Option b) is incorrect because a compound sentence does not have any dependent clauses. Option c) is incorrect because a complex sentence has one independent clause and at least one dependent clause, whereas this sentence has multiple independent clauses."
+        },
+        {
+          "questionNo": 14,
+          "question": "Identify the type of sentence:<br> 'The car broke down, so we had to take a taxi.'",
+          "options": [
+            "Simple",
+            "Compound",
+            "Complex",
+            "Complex-compound"
+          ],
+          "answer": 1,
+          "explanation": "Option b) is correct because the sentence contains two independent clauses ('The car broke down' and 'we had to take a taxi') joined by the coordinating conjunction 'so,' making it a compound sentence. Option a) is incorrect because a simple sentence has only one independent clause. Option c) is incorrect because a complex sentence has at least one dependent clause, which is not present here. Option d) is incorrect because a complex-compound sentence contains at least two independent clauses and one dependent clause, and this sentence lacks a dependent clause."
+        },
+        {
+          "questionNo": 15,
+          "question": "Identify the type of sentence:<br> 'Even though it was late, he continued to work on his project.'",
+          "options": [
+            "Simple",
+            "Compound",
+            "Complex",
+            "Complex-compound"
+          ],
+          "answer": 2,
+          "explanation": "Option c) is correct because the sentence consists of one dependent clause ('Even though it was late') and one independent clause ('he continued to work on his project'), making it a complex sentence. Option a) is incorrect because a simple sentence does not have any dependent clauses. Option b) is incorrect because a compound sentence consists of two independent clauses connected by a coordinating conjunction, which is not the case here. Option d) is incorrect as there is only one independent clause and one dependent clause, not multiple independent clauses."
+        },
+        {
+          "questionNo": 16,
+          "question": "Replace the incorrect conjunction in the following sentence:<br> 'The chef prepared the meal while decorated the dining area.'",
+          "options": [
+            "Change 'while' to 'and.'",
+            "Change 'while' to 'but.'",
+            "Change 'while' to 'or.'",
+            "No change needed."
+          ],
+          "answer": 0,
+          "explanation": "The conjunction 'while' suggests that two actions are happening simultaneously, but in this context, the actions are sequential or complementary rather than concurrent. The appropriate conjunction is 'and' to indicate that the chef performed both tasks in succession."
+        },
+        {
+          "questionNo": 17,
+          "question": "Replace the incorrect conjunction in the following sentence:<br> 'The team played well, yet they won the match with ease.'",
+          "options": [
+            "Change 'yet' to 'and.'",
+            "Change 'yet' to 'so.'",
+            "Change 'yet' to 'because.'",
+            "No change needed."
+          ],
+          "answer": 1,
+          "explanation": "'Yet' suggests a contrast, which does not suit the meaning here since the two actions ('played well' and 'won the match') are related in cause and effect. The correct conjunction is 'so,' indicating that the team's good performance led to their victory."
+        },
+        {
+          "questionNo": 18,
+          "question": "Choose the correct completion of the sentence:<br> 'The engineer designed the bridge ______.'",
+          "options": [
+            "and supervised its construction personally",
+            ", and supervised its construction personally",
+            "and, supervised its construction personally",
+            "but supervised its construction personally"
+          ],
+          "answer": 0,
+          "explanation": "Option a) correctly links the two actions with 'and' without adding unnecessary punctuation. Option b) incorrectly uses a comma before 'and,' which is not required here. Option c) misplaces the comma after 'and.' Option d) introduces contrast with 'but,' which is inappropriate because both actions are complementary."
+        },
+        {
+          "questionNo": 19,
+          "question": "Choose the correct completion of the sentence:<br> 'The athlete trained rigorously ______.'",
+          "options": [
+            "and improved her performance significantly",
+            ", and improved her performance significantly",
+            "and, improved her performance significantly",
+            "but improved her performance significantly"
+          ],
+          "answer": 0,
+          "explanation": "Option a) is the correct answer as it connects the two related actions ('trained rigorously' and 'improved her performance') using 'and.' The comma in option b) is unnecessary, and option c) misplaces the comma after 'and.' Option d) introduces contrast with 'but,' which is inappropriate here since the actions are logically connected."
+        },
+        {
+          "questionNo": 20,
+          "question": "Choose the correct completion of the sentence:<br> 'The author wrote the manuscript ______.'",
+          "options": [
+            "and published it without delay",
+            ", and published it without delay",
+            "and, published it without delay",
+            "but published it without delay"
+          ],
+          "answer": 0,
+          "explanation": "Option a) is the correct choice, connecting the actions of writing and publishing with 'and' to indicate sequence. Option b) uses a comma unnecessarily before 'and.' Option c) incorrectly places a comma after 'and.' Option d) implies a contrast that does not exist between the two connected actions."
+        }
+      ]
+    }
+  ]
+}
